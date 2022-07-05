@@ -1,0 +1,226 @@
+# depslib dependency file v1.0
+1656949419 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917222 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656909900 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - copia con menu en movimiento\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+
+1655917222 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - copia con menu en movimiento\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656957813 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - copia\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917222 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656957813 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo full version\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917222 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo full version\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656966244 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo full version - copia\funciones.cpp
+	"funciones.h"
+
+1656966196 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo full version - copia\funciones.h
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917222 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo full version - copia\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656970121 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - zidonis leonas\funciones.cpp
+	"funciones.h"
+
+1656970121 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - zidonis leonas\funciones.h
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917222 c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - zidonis leonas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656970030 source:c:\users\leo\desktop\facultad\laboratorio de computacion 1\examen integrador\gran cerdo - zidonis leonas\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1656972230 source:c:\users\leo\downloads\gran cerdo - zidonis leonas\funciones.cpp
+	"funciones.h"
+
+1656970121 c:\users\leo\downloads\gran cerdo - zidonis leonas\funciones.h
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917222 c:\users\leo\downloads\gran cerdo - zidonis leonas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656970030 source:c:\users\leo\downloads\gran cerdo - zidonis leonas\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
+1656981515 source:c:\users\leo\desktop\gran cerdo - zidonis leonas\funciones.cpp
+	"funciones.h"
+
+1656970122 c:\users\leo\desktop\gran cerdo - zidonis leonas\funciones.h
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+
+1655917224 c:\users\leo\desktop\gran cerdo - zidonis leonas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1656970032 source:c:\users\leo\desktop\gran cerdo - zidonis leonas\main.cpp
+	<iostream>
+	<locale.h>
+	<time.h>
+	<stdlib.h>
+	<string>
+	"rlutil.h"
+	<windows.h>
+	"funciones.h"
+
